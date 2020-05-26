@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Откатные ворота в Москве и Московской области</title>
+ <link>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Форма заявки в подвале</title>
+ <link>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai/content/forma-zayavki-v-podvale</link>
+ <description>&lt;form class=&quot;webform-client-form webform-client-form-17&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-17&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div  class=&quot;form-item webform-component webform-component-textfield webform-component--vashe-imya&quot;&gt;
+  &lt;label for=&quot;edit-submitted-vashe-imya&quot;&gt;Ваше имя &lt;/label&gt;
+ &lt;input placeholder=&quot;Ваше имя&quot; type=&quot;text&quot; id=&quot;edit-submitted-vashe-imya&quot; name=&quot;submitted[vashe_imya]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-textfield webform-component--telefon&quot;&gt;
+  &lt;label for=&quot;edit-submitted-telefon&quot;&gt;Телефон &lt;span class=&quot;form-required&quot; title=&quot;Это поле обязательно для заполнения.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input required=&quot;required&quot; placeholder=&quot;Ваш телефон&quot; type=&quot;text&quot; id=&quot;edit-submitted-telefon&quot; name=&quot;submitted[telefon]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-checkboxes webform-component--politika-checkbox&quot;&gt;
+  &lt;label for=&quot;edit-submitted-politika-checkbox&quot;&gt;Политика checkbox &lt;span class=&quot;form-required&quot; title=&quot;Это поле обязательно для заполнения.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;div id=&quot;edit-submitted-politika-checkbox&quot; class=&quot;form-checkboxes ckecked&quot;&gt;&lt;div class=&quot;form-item form-type-checkbox form-item-submitted-politika-checkbox-value&quot;&gt;
+ &lt;input required=&quot;required&quot; class=&quot;ckecked form-checkbox&quot; type=&quot;checkbox&quot; id=&quot;edit-submitted-politika-checkbox-1&quot; name=&quot;submitted[politika_checkbox][value]&quot; value=&quot;value&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-politika-checkbox-1&quot;&gt;true &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+ &lt;div class=&quot;description&quot;&gt;С &lt;a href=&quot;/politika-obrabotki-personalnyh-dannyh&quot; class=&quot;polity&quot;&gt;политикой&lt;/a&gt; обработки персональных данных ознакомлен&lt;/div&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-hidden webform-component--razmer-vorot&quot; style=&quot;display: none&quot;&gt;
+ &lt;input type=&quot;hidden&quot; name=&quot;submitted[razmer_vorot]&quot; value=&quot;Не указан&quot; /&gt;
+
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-hidden webform-component--stranica&quot; style=&quot;display: none&quot;&gt;
+ &lt;input type=&quot;hidden&quot; name=&quot;submitted[stranica]&quot; value=&quot;не указана&quot; /&gt;
+
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-QOeHIlwhHIEmi6cpn4fRwnG4TIkxFfBLU8agxRClBnY&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_17&quot; /&gt;
+&lt;div class=&quot;form-actions&quot;&gt;&lt;input class=&quot;webform-submit button-primary form-submit&quot; type=&quot;submit&quot; name=&quot;op&quot; value=&quot;Заказать&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Tue, 30 Jan 2018 08:28:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">17 at http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai</guid>
+ <comments>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai/content/forma-zayavki-v-podvale#comments</comments>
+</item>
+<item>
+ <title>Контакты</title>
+ <link>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai/contacs</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Ждем ваших звонков по телефону в Москве:&lt;/strong&gt; +7 (985) 618-99-51&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пишите нам на e-mail:&lt;/strong&gt; &lt;a href=&quot;mailto:89856189951@mail.ru&quot;&gt;89856189951@mail.ru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 24 Jan 2018 14:55:25 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">15 at http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai</guid>
+ <comments>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai/contacs#comments</comments>
+</item>
+<item>
+ <title>Чтобы купить ворота, оставьте заявку</title>
+ <link>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai/content/chtoby-kupit-vorota-ostavte-zayavku</link>
+ <description>&lt;form class=&quot;webform-client-form webform-client-form-1&quot; action=&quot;/rss.xml&quot; method=&quot;post&quot; id=&quot;webform-client-form-1&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;div  class=&quot;form-item webform-component webform-component-textfield webform-component--vashe-imya&quot;&gt;
+  &lt;label for=&quot;edit-submitted-vashe-imya--2&quot;&gt;Ваше имя &lt;/label&gt;
+ &lt;input placeholder=&quot;Ваше имя&quot; type=&quot;text&quot; id=&quot;edit-submitted-vashe-imya--2&quot; name=&quot;submitted[vashe_imya]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;35&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-textfield webform-component--telefon&quot;&gt;
+  &lt;label for=&quot;edit-submitted-telefon--2&quot;&gt;Телефон &lt;span class=&quot;form-required&quot; title=&quot;Это поле обязательно для заполнения.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input required=&quot;required&quot; placeholder=&quot;Ваш телефон&quot; type=&quot;text&quot; id=&quot;edit-submitted-telefon--2&quot; name=&quot;submitted[telefon]&quot; value=&quot;&quot; size=&quot;60&quot; maxlength=&quot;128&quot; class=&quot;form-text required&quot; /&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-checkboxes webform-component--politika-checkbox webform-container-inline&quot;&gt;
+  &lt;label for=&quot;edit-submitted-politika-checkbox--2&quot;&gt;Политика checkbox &lt;span class=&quot;form-required&quot; title=&quot;Это поле обязательно для заполнения.&quot;&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;div id=&quot;edit-submitted-politika-checkbox--2&quot; class=&quot;form-checkboxes ckecked&quot;&gt;&lt;div class=&quot;form-item form-type-checkbox form-item-submitted-politika-checkbox-value&quot;&gt;
+ &lt;input required=&quot;required&quot; class=&quot;ckecked form-checkbox&quot; type=&quot;checkbox&quot; id=&quot;edit-submitted-politika-checkbox--2-1&quot; name=&quot;submitted[politika_checkbox][value]&quot; value=&quot;value&quot; /&gt;  &lt;label class=&quot;option&quot; for=&quot;edit-submitted-politika-checkbox--2-1&quot;&gt;true &lt;/label&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+ &lt;div class=&quot;description&quot;&gt;С &lt;a href=&quot;/politika-obrabotki-personalnyh-dannyh&quot; class=&quot;polity&quot;&gt;политикой&lt;/a&gt; обработки персональных данных ознакомлен&lt;/div&gt;
+&lt;/div&gt;
+&lt;div  class=&quot;form-item webform-component webform-component-hidden webform-component--stranica&quot; style=&quot;display: none&quot;&gt;
+ &lt;input type=&quot;hidden&quot; name=&quot;submitted[stranica]&quot; value=&quot;не указано&quot; /&gt;
+
+&lt;/div&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[sid]&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_num]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[page_count]&quot; value=&quot;1&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;details[finished]&quot; value=&quot;0&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-q-tnY4UIwYcjo9iGAKmSX5z2tVunUtG-xtjDaS3XJCg&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;webform_client_form_1&quot; /&gt;
+&lt;div class=&quot;form-actions&quot;&gt;&lt;input class=&quot;webform-submit button-primary form-submit&quot; type=&quot;submit&quot; name=&quot;op&quot; value=&quot;Заказать&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;</description>
+ <pubDate>Mon, 22 Jan 2018 07:59:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1 at http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai</guid>
+ <comments>http://xn-----6kcbbjct7bgvgkgad3axfch5q.xn--p1ai/content/chtoby-kupit-vorota-ostavte-zayavku#comments</comments>
+</item>
+</channel>
+</rss>
